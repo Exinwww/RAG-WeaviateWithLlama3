@@ -5,3 +5,13 @@
 使用llama3作为生成器。
 
 构建了一个针对于给定文档的RAG问答系统。
+
+## 环境
+* python=3.8
+* langchain_community
+* weaviate-client
+* Ollama & llama3-8B
+* Linux系统
+
+## 运行：
+python main.py
