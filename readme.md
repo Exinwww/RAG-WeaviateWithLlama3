@@ -15,3 +15,6 @@
 
 ## 运行：
 python main.py
+
+## 参考结果
+![result](pic/nlp.png)
